@@ -1,8 +1,8 @@
 # Clawdbot Skills Sync Repository
 
 ## 同步信息
-- **最后同步时间**: Sun Feb 15 02:00:12 CST 2026
-- **技能数量**: 58
+- **最后同步时间**: Sun Feb 15 09:08:37 CST 2026
+- **技能数量**: 59
 - **同步频率**: 每周自动同步
 - **同步方向**: 双向（GitHub ↔ 本地）
 
@@ -65,6 +65,7 @@
 - voice-call
 - wacli
 - weather
+- wechat
 
 ## 同步逻辑
 1. **先拉取**：检查GitHub是否有新变更
